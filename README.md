@@ -37,7 +37,8 @@ Replace `<file>` with the name of the file you want to add.
 
 Here is terminal screenshot of the commands:
 
-![alt text](image-1.png)
+![image](https://github.com/anujagrawal699/Clamp-VersionControlSystem/assets/121146661/0414ae1f-8c5b-4526-9e46-87fd130a5a1f)
+
 
 
 ## Contributing
